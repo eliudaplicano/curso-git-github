@@ -6,4 +6,4 @@ Hola soy eaplicano
 
 Este commit es para ofcializar nuestra version **1.0.0**
 
-Cambio de prueba
+Cambio de prueba para revisar un commit
